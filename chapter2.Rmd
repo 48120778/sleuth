@@ -1,0 +1,7 @@
+---
+Sleuth exercise
+Auther: Hao Wang
+---
+~~~{r}
+#
+~~~
